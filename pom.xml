@@ -11,6 +11,7 @@
     <modules>
         <module>server</module>
         <module>backend</module>
+        <module>frontend</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
