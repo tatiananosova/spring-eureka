@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>server</module>
+        <module>backend</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
